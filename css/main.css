@@ -21,3 +21,15 @@ body {
 	line-height:20px;
 	display:inline-block;
 }
+.valid{
+	margin:5px auto;
+	color: Orange;
+	line-height:20px;
+	display:inline-block;
+}
+.remark{
+	
+	margin:10px auto;
+	color: Gray;
+	line-height:20px;
+}
