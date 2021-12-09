@@ -1,0 +1,23 @@
+* {
+	padding:0;
+	margin:0;
+}
+body {
+	font-size:16px;
+}
+.timeBox {
+	color:#6dbec5;
+	margin:10px auto;
+}
+.timeBox2 {
+	color:#12ae53;
+	margin:10px auto;
+}
+.time {
+	border:1px solid #6dbec5;
+	width:40px;
+	height:20px;
+	text-align:center;
+	line-height:20px;
+	display:inline-block;
+}
